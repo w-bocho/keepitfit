@@ -1,0 +1,25 @@
+{
+  "short_name": "Keep It Fit",
+  "name": "Keep It Fit - Nutritional Data",
+  "icons": [
+    {
+      "src": "keep-it-fit-icon.svg",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "keepitfit192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "keepitfit512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
